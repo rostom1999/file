@@ -35756,7 +35756,7 @@ C.ap.yZ(P.aw(["first",o.a.a,"last",n.a.a,"msg",p.a.a],m,m),null)
 l=o.a.a
 k=n.a.a
 j=p.a.a
-G.awj(P.wC("http://192.168.188.1/php/config.php?first="+l+"&last="+k+"&msg="+j,0,null))
+G.awj(P.wC("https://flutter-stt.000webhostapp.com/config.php?first="+l+"&last="+k+"&msg="+j,0,null))
 return P.a0(null,r)}})
 return P.a1($async$$0,r)},
 $S:46}
